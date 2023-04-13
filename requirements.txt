@@ -1,0 +1,5 @@
+pip install shiny==0.3.0
+pip install pandas==2.0.0
+pip install plotly==5.12.0
+pip install shinywidgets==0.1.6
+pip install matplotlib
