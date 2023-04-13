@@ -1,6 +1,6 @@
 # Shiny for Python - Portfolio Analytics App
 
-## 1. Data Collection
+## Data Collection
 
 Follow the `Get stocks data.ipynb` notebook to extract close adjusted
 price data using the yahoo finance API.
